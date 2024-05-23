@@ -17,7 +17,7 @@ ${Red} \        /${Yellow}\  ___/| \_\ \/        \  \___|  | \// __ \|  |_> >  _
 ${Red}  \__/\  /${Yellow}  \___  >___  /_______  /\___  >__|  (____  /   __/ \___  >
 ${Red}       \/${Yellow}       \/    \/        \/     \/           \/|__|        \/                                                                     "
 printf "\n\e[1;77m     A web scraper to get emails and phone numbers from websites      \e[0m\n\n"
-echo -e "\e[0;96m                Developed by: ${Red}Sandesh (3xploitGuy)\n\n\n"                      
+echo -e "\e[0;96m                Developed by: ${Red}@jujutsukaisenaimbot\n\n\n"                      
 #echo -e "\e[0;96m                     Version: ${Red}1.0 Stable\n\n\n"                  
 }
 scanner () {
